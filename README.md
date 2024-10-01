@@ -14,4 +14,4 @@ Knowledge Graph, формат запросов к нейро-сотрудник�
 
 Используемая модель **saiga_mistral_7b**
 
- [Оригинальный файл colab](https://colab.research.google.com/drive/1O7r0DHr0NFmD4myA7LzUhfdaGU3yXsFu?usp=sharing)
+ [Оригинальный файл Google Colab](https://colab.research.google.com/drive/1O7r0DHr0NFmD4myA7LzUhfdaGU3yXsFu?usp=sharing)
